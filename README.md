@@ -36,8 +36,8 @@ CLUE small area: Kensington || Trading Name: Shine Australia || Industry (ANZSIC
 ### This is an example of what might be output to stdout: 
 
 144.967058 -37.817313 0.0005 −− > 4815
-145.
-146.963089 -37.799092 0.0005 −− > 359
+
+144.963089 -37.799092 0.0005 −− > 359
 
 
 
@@ -77,4 +77,5 @@ This is an example of what might be output to the file after two queries:
 ### This is an example of what might be output to stdout:
 
 144.963089 -37.799092 0.0005 −− > NOTFOUND
+
 144.967058 -37.817313 0.0005 −− > 678 144.963089 -37.799092 0.0005 −− > 1356
