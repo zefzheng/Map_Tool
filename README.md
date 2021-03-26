@@ -1,7 +1,7 @@
 # Map_Tool
 
 ### Dataset
-This project needs a subset of the Business Establish - ment Trading Name and Industry Classification 2018 dataset, accessed from: https://data.melbourne.vic.gov.au/Business/Business-establishment-trading-name- and-industry-c/vesm-c7r2
+This project input needs a subset of the Business Establish - ment Trading Name and Industry Classification 2018 dataset, accessed from: https://data.melbourne.vic.gov.au/Business/Business-establishment-trading-name- and-industry-c/vesm-c7r2
 
 
 
