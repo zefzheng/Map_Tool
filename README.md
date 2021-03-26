@@ -4,13 +4,15 @@
 This project needs a subset of the Business Establish - ment Trading Name and Industry Classification 2018 dataset, accessed from: https://data.melbourne.vic.gov.au/Business/Business-establishment-trading-name- and-industry-c/vesm-c7r2
 
 
-## Stage 1 - What’s here?
+
+# Stage 1 - What’s here?
 
 ## Example input
 
 • map1 datafile outputfile then type in queries; or
 
 • map1 datafile outputfile < queryfile
+
 
 ## Example output
 
@@ -38,13 +40,17 @@ CLUE small area: Kensington || Trading Name: Shine Australia || Industry (ANZSIC
 146.963089 -37.799092 0.0005 −− > 359
 
 
-## Stage 2 - Radius search
+
+
+# Stage 2 - Radius search
+
 
 ## Example input
 
 • map2 datafile outputfile then type in queries; or
 
 • map2 datafile outputfile < queryfile
+
 
 ## Example output
 
